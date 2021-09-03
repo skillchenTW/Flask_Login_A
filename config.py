@@ -1,0 +1,5 @@
+DB_HOST='localhost'
+DB_PORT='5433'
+DB_NAME='st'
+DB_USER='postgres'
+DB_PASS='dba'
